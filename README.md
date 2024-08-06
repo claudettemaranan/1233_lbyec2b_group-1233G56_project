@@ -23,7 +23,7 @@ Please do not upload exe files.
 
 CAVEAT: Make sure to do #4, otherwise it won't be reflected to your Github Repository
 
-## Contributors: GAVINO RAFAEL BUENAVENTURA FUERTE1, CLAUDETTE CHRISTI CUIZON MARANAN2, LUIS MIGUEL MANAIG MOLINA3
+## Contributors: GAVINO RAFAEL BUENAVENTURA FUERTE, CLAUDETTE CHRISTI CUIZON MARANAN, LUIS MIGUEL MANAIG MOLINA
 
 Edit this README file to add the name of all project contributors.
 
